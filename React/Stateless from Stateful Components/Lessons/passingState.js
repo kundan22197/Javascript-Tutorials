@@ -32,4 +32,3 @@ export class Child extends React.Component {
 }
 
 
-//fugrgorg orgio
